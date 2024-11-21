@@ -1,8 +1,4 @@
-# Node modules (for both frontend and backend)
-node_modules/
-
-# Environment variable file
-.env
-
-# macOS system files
-.DS_Store
+backend/config/config.env
+backend/node_modules
+frontend/node_modules
+frontend/.env
