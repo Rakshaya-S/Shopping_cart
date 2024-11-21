@@ -1,0 +1,6 @@
+name,price,description,rating,images,category,seller,stock
+"Wireless Mouse","29.99","A comfortable wireless mouse with a sleek design and long battery life.","4.5","{"image": ""https://example.com/images/wired-mouse.jpg"}","Electronics","Tech Store","150"
+"Gaming Keyboard","79.99","Mechanical gaming keyboard with customizable RGB lighting and programmable keys.","4.8","[{""image"": ""https://example.com/images/gaming-keyboard.jpg""}]","Electronics","Game Hub","75"
+"Bluetooth Headphones","49.99","Noise-cancelling Bluetooth headphones with high-quality sound.","4.6","[{""image"": ""https://example.com/images/bluetooth-headphones.jpg""}]","Electronics","Audio World","100"
+"Smartwatch","199.99","Feature-packed smartwatch with health tracking and notifications.","4.7","[{""image"": ""https://example.com/images/smartwatch.jpg""}]","Wearables","Wearable Tech","50"
+"Portable Charger","19.99","Compact portable charger with fast charging capabilities.","4.4","[{""image"": ""https://example.com/images/portable-charger.jpg""}]","Accessories","Gadget Shop","200"
